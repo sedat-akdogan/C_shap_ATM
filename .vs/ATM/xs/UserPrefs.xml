@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{57316EE4-79B3-4F35-92E3-9B78EBBDA893}|Default">
-  <MonoDevelop.Ide.ItemProperties.ATM FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ATM PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM/atm.cs">
+    <Files>
+      <File FileName="ATM/Program.cs" Line="93" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATM" expanded="True">
+            <Node name="ATM" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
